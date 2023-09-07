@@ -13,7 +13,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Typescript](https://img.shields.io/badge/-Typescript-f7f7f7?style=for-the-badge&logo=Typescript&logoColor=blue)
-![PHP](https://img.shields.io/badge/-PHP-0b0b0b?style=for-the-badge&logo=PHP&logoColor=#777BB4)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 <br><br>
