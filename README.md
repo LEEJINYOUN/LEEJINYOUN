@@ -4,7 +4,7 @@
 <h2> 😄 자기 소개 </h2>
 안녕하세요.<br>
 신입 개발자 이진영입니다.<br>
-현재 프론트엔드 개발자가 되기 위해 공부하고 있습니다.
+웹 개발자가 되기 위해 공부하고 있습니다.
 <br><br>
 
 <h2> 🛠 기술 스택 </h2>
@@ -18,6 +18,10 @@
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
     <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
     <img src="https://img.shields.io/badge/nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white">
+    <br><br>
+    <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=black">
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
     <br><br>
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
